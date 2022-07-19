@@ -2,7 +2,9 @@
  [Demo](https://eiftech-front.herokuapp.com/)
  
  Front - React JS + TS
+ [code](https://github.com/AleksandrKamlykov/delivery-front)
  Back - Express(node.js)
+ [code](https://github.com/AleksandrKamlykov/delivery-back)
  
  Після відкриття сторінки завантажуєтся список магазинів та продуктів
  після завантаження потрібно спочутку вибрати магазин
